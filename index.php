@@ -1,7 +1,7 @@
 <?php
 
       function theArray($n, $a) {
-        $count = a.length;
+        $count = count($a);
          $b = [];
         for ($i = 0; $i <= $n - 1; $i++) {
           if ($i == 0) {
